@@ -2,7 +2,7 @@
 
 Welcome to my **haskellbook portfolio**, where I showcase my journey through functional programming and problem-solving using Haskell! 🚀
 
-This repository contains my solutions to exercises from the book **Haskell Programming from First Principles** (a.k.a. the Haskell Book). My goal is to create a collection of well-organized and reusable Haskell notebooks.
+This repository contains my solutions to exercises from the book **Haskell Programming from First Principles** (a.k.a. the Haskell Book). My goal is to create a collection of well-organized and reusable Jupyter notebooks with Haskell code.
 
 ---
 
